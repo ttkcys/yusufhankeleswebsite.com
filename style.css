@@ -315,35 +315,27 @@ header{
     width: 90%;
 }
 .progress:nth-child(4) .oute-row .inner-row{
-    width: 90%;
+    width: 80%;
 }
 .progress:nth-child(5) .oute-row .inner-row{
-    width: 80%;
-}
-.progress:nth-child(6) .oute-row .inner-row{
     width: 70%;
 }
+.progress:nth-child(6) .oute-row .inner-row{
+    width: 60%;
+}
 .progress:nth-child(7) .oute-row .inner-row{
-    width: 80%;
+    width: 75%;
 }
 .progress:nth-child(8) .oute-row .inner-row{
-    width: 67%;
+    width: 70%;
 }
 .progress:nth-child(9) .oute-row .inner-row{
-    width: 90%;
+    width: 70%;
 }
 .progress:nth-child(10) .oute-row .inner-row{
     width: 60%;
 }
-.progress:nth-child(11) .oute-row .inner-row{
-    width: 80%;
-}
-.progress:nth-child(12) .oute-row .inner-row{
-    width: 48%;
-}
-.progress:nth-child(13) .oute-row .inner-row{
-    width: 95%;
-}
+
 #Portfolio{
     background: var(--bg-varint);
 }
